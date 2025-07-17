@@ -9,5 +9,6 @@ This project implements a facial recognition system using `face_recognition`, `O
 Before running the project, ensure you have the following libraries installed:
 
 pip install cmake dlib face_recognition opencv-python scikit-learn numpy
+
 Kindly put cmake in environment paths also.
 
